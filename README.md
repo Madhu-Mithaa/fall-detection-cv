@@ -7,8 +7,11 @@ Fall is one of the major causes of death for older people, where 30% of falls ca
 2. Perform real-time fall detection
 
 
+## References
+1. Real-time Vision-based Fall Detection with Motion History Images and Convolutional Neural Networks, Truls Haraldsson, 2018.
 
-<!--## References-->
+## Acknowledgements
+The code for training the pytorch model has been adapted from [this](https://medium.com/diving-in-deep/fall-detection-with-pytorch-b4f19be71e80) blogpost. 
 
 ## Project Members
 1. Vijayasri Iyer 
